@@ -1,4 +1,4 @@
-#Setup
+# Setup
 1. Webserver der Wahl installieren - am besten einen der http2 unterstützt
 2. PHP7+ mit GD2, BCMath und cURL als Modpackage
 3. Dateien hochladen
@@ -6,7 +6,8 @@
 5. WMS-Layer, Backend-URL, lokale URL und lokale Ordner in der config.php eintragen
 6. ggfls. zusätzliche URL-Parameter für die Caching-Keygeneration eintragen
 
-#ToDo
+# ToDo
+
 ## Reines Caching
 - [x] schneller Cache für WMS-Tiles
 - [x] voller Satz WMS-Parameter als Cache-Identifier
