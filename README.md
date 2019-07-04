@@ -43,7 +43,7 @@
   - [ ] Links ist Wald, Rechts ist Wald, in der Mitte ist vermutlich auch Wald
     - [ ] Achtung: Irgendeine Logik zum nachladen des echten Inhalts ist notwendig!
 
-#LICENSE
+# LICENSE
 
 Siehe LICENSE-File. Die Files unter /demo/ sind u.U. tlw. geistiges Eigentum der Open Source Geospatial Foundation oder anderer Autoren.
 Entsprechende Lizenzhinweise sind zu beachten.
