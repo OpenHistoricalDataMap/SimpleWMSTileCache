@@ -1,3 +1,6 @@
+# Demo
+https://ohdmcache.f4.htw-berlin.de/demo/cached.html
+
 # Setup
 1. Webserver der Wahl installieren - am besten einen der http2 unterstützt
 2. PHP7+ mit GD2, BCMath und cURL als Modpackage
